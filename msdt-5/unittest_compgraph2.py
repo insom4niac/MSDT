@@ -1,7 +1,7 @@
 import math
 import pytest
 from unittest.mock import MagicMock
-from fractal import GFractal, Line, DrawBoard, State, draw_fractal, update_bounds, choose_step
+from compgraph2 import GFractal, Line, DrawBoard, State, draw_fractal, update_bounds, choose_step
 
 # Тесты на инициализацию обьектов и на использование внутренних методов
 
